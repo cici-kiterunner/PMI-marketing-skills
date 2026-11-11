@@ -1,0 +1,8 @@
+interface:
+  display_name: "新闻与PR稿 GEO 内容优化"
+  short_description: "上传原稿获取标黄对照稿与重点建议，保留品牌观点，由你决定采纳"
+  default_prompt: "请使用 $optimize-pr-geo 优化这篇稿件，先反馈问题与理念、品牌、增长目标，再交付标黄及删除线对照稿和重点建议。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  allow_implicit_invocation: true

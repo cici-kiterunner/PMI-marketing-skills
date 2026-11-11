@@ -1,0 +1,16 @@
+{
+  "skill_name": "optimize-pr-geo",
+  "version": "0.1.0-draft.1",
+  "files": {
+    "skills/optimize-pr-geo/SKILL.md": "aa92fb3baa69ef4d4e0fcac8c3fecad26710b49fa4c6bda11705f222c752a400",
+    "skills/optimize-pr-geo/agents/openai.yaml": "80ea406e7a8208a72d19fdb697337aa11f4565e8d278c87394650585b42716cc",
+    "skills/optimize-pr-geo/assets/icon.svg": "49315dda7125ec5fc77ef5f2b96126d8b2121c6e72944b4702972e90f321d3ee",
+    "skills/optimize-pr-geo/references/channel-guide.md": "0654fb0de228f1cbc688e2085679a1ae5efe95c7c2caf0bca2e3f06d636c6dbf",
+    "skills/optimize-pr-geo/references/chinese-editorial-examples.md": "c0da035b985456147066d8cbb13c265989a35eb25b407a1d6c69550fb03d09e3",
+    "skills/optimize-pr-geo/references/colleague-experience.md": "617087112292deccf55c6aaa20d7812130426eae9b094dc7d484cdcffc098c84",
+    "skills/optimize-pr-geo/references/editorial-check.md": "865eebea852b098133e128f68ecd5faba8ca2e3ba309aa78857270e82697da7d",
+    "skills/optimize-pr-geo/references/pmi-editorial-policy.md": "c492e62fb857cc9346a45ee22567d0ab8215a078cb812b5eab9e8858a1741251",
+    "skills/optimize-pr-geo/references/question-goal-brief.md": "843b847fb038db5dd29accc00a23c32c28d2bfb03de35a5f435f2791e8298a72",
+    "skills/optimize-pr-geo/release.json": "a592539da7a1ba61a8de7a4edb57fd9c7165d1387233ee7330b244439b31e284"
+  }
+}
